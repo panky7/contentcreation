@@ -1,0 +1,162 @@
+# 5 Design Tools Every Vibe Coder / Creative Developer Should Know
+
+## 1. Spline (3D Engine for Web)
+
+https://spline.design/
+
+- Free plan available
+- Paid: ~$12–$20/month
+- What it does: Real-time interactive 3D inside browser
+- Key features:
+    - 3D scenes, lighting, animations
+    - Export + embed directly into websites
+    - No-code interactions
+
+👉 Use for: Hero sections, product demos, scroll-based storytelling
+
+## 2. Unicorn Studio (Motion Layer for Web)
+
+https://www.unicorn.studio/
+
+- Free + paid plans (for export/customization)
+- What it does: WebGL animations without coding
+- Key features:
+    - Pre-built animation effects
+    - Remix templates
+    - Embed into Webflow / custom sites
+
+👉 Use for: Premium feel (this is what separates average vs luxury websites
+
+## 3. Manus (AI Website Builder)
+
+https://manus.im/
+
+- Early-stage (pricing evolving / limited access)
+- What it does: Prompt → full website
+- Key features:
+    - Generates layout + copy + structure
+    - Rapid MVP creation
+    - Idea → live site in minutes
+
+👉 Use for: Fast prototyping & landing pages
+
+## 4. 21st.dev (Frontend Acceleration)
+
+https://21st.dev/home
+
+- Mostly free + premium UI kits
+- What it does: Ready-to-use React components
+- Key features:
+    - Copy-paste UI blocks
+    - Clean, production-ready code
+    - Saves dev time massively
+
+👉 Use for: Building faster without reinventing UI
+
+## 5. Landing.love (Conversion Library)
+
+https://www.landing.love/
+
+- Free + paid inspiration packs
+- What it does: 2,000+ real landing pages
+- Key features:
+    - Proven UI patterns
+    - Animation references
+    - High-converting layouts
+
+👉 Use for: Research before building anything
+
+# How To Use The Tools :
+
+## 1. Spline.design
+
+**Use for:** 3D hero sections, product mockups, interactive website visuals.
+
+**Pricing:** Free plan available. Paid plans start at **$12/seat/month billed annually**.
+
+**How to use:**
+
+1. Open Spline.
+2. Choose a starter 3D scene or blank canvas.
+3. Add 3D objects, lighting, materials, camera movement.
+4. Add interactions like hover, click, drag, or scroll.
+5. Export/embed it into your website.
+
+**Best prompt/template:**
+
+> Create a premium 3D hero visual for a SaaS website about [product]. Use a clean futuristic style, soft lighting, floating UI cards, smooth depth, minimal colors, and make it suitable for embedding above the fold.
+> 
+
+## 2. Unicorn.studio
+
+**Use for:** WebGL animations, background effects, interactive website motion.
+
+**Pricing:** Free plan available. Paid “Legend” plan is **$20/month or $168/year**.
+
+**How to use:**
+
+1. Pick an effect/template.
+2. Customize colors, particles, glow, blur, motion.
+3. Adjust animation speed and layout.
+4. Export or embed into Framer/Webflow/custom code.
+
+**Best prompt/template:**
+
+> Create a luxury animated website background for [brand/type]. Use subtle particles, soft gradients, elegant motion, low distraction, and make it feel premium without hurting readability.
+> 
+
+## 3. Manus.im
+
+**Use for:** AI-generated websites, MVPs, landing pages, business websites.
+
+**Pricing:** Uses a credit-based system; official docs mention flexible plans and usage-based credits.
+
+**How to use:**
+
+1. Describe your website idea clearly.
+2. Mention audience, sections, style, CTA, and goal.
+3. Let Manus generate the first version.
+4. Edit copy, layout, colors, and sections.
+5. Publish or export depending on available options.
+
+**Best prompt/template:**
+
+> Build a high-converting landing page for [business/product]. Target audience: [audience]. Goal: [leads/sales/signups]. Style: [premium/minimal/bold]. Include hero, problem, benefits, proof, pricing, FAQ, and CTA. Make the copy sharp, conversion-focused, and mobile-first.
+> 
+
+## 4. 21st.dev
+
+**Use for:** Copy-paste React/Next.js components.
+
+**Pricing:** The public community library offers thousands of React components; pricing depends on specific creators/packs.
+
+**How to use:**
+
+1. Search for the component you need.
+2. Pick navbar, pricing, hero, cards, testimonials, etc.
+3. Copy the code.
+4. Paste into your React/Next.js project.
+5. Customize Tailwind classes, copy, spacing, and colors.
+
+**Best prompt/template for Cursor:**
+
+> Update this component to match my brand: colors [colors], font style [style], tone [premium/minimal/bold]. Keep the layout responsive, improve spacing, add hover states, and make it production-ready without changing the core structure.
+> 
+
+## 5. Landing.love
+
+**Use for:** Landing page inspiration, animation references, layout ideas.
+
+**Pricing:** 100% free, according to its About page.
+
+**How to use:**
+
+1. Browse by category: SaaS, AI, portfolio, agency, ecommerce.
+2. Save 3–5 references.
+3. Study hero structure, CTA placement, animations, and section order.
+4. Use it to create your design direction before building.
+
+**Best prompt/template:**
+
+> Analyze this landing page reference and extract the design system: hero layout, CTA style, section flow, typography, animation ideas, color mood, and conversion patterns. Then turn it into a wireframe for my [business type] website.
+>
